@@ -57,6 +57,7 @@ const PaginationComp = (props) => {
                                 <Card.Text style={{ color: "black" }}>{data.body}</Card.Text>
                                 <Button variant="primary">ReadMore</Button>
                             </Card.Body>
+                            
                         </Card>
                     </Col>
                     )}
